@@ -15,6 +15,7 @@
     "format": "prettier --write --experimental-cli src/"
   },
   "dependencies": {
+    "@element-plus/icons-vue": "^2.3.2",
     "@pixi/app": "6.5.10",
     "@pixi/core": "6.5.10",
     "@pixi/extensions": "6.5.10",
